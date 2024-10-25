@@ -1,0 +1,3 @@
+C:\Users\Kwalt\Desktop\New folder\FireWallie.pdb
+C:\Users\Kwalt\Desktop\New folder\FireWallie.dll.config
+C:\Users\Kwalt\Desktop\New folder\FireWallie.exe
